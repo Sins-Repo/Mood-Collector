@@ -37,7 +37,7 @@ Successful! Saving to database
 <br/>
 
 # Natural Language Processing Trained Model
-The model and the tokenizer were saved beforehand. Interested to know more? Visit this repo [NLP-Sentiment140](https://github.com/Sins-Repo/NLP-Sentiment140)
+The model and the tokenizer were saved beforehand. Interested to know more about the training process of a NLP model? Visit this repo [NLP-Sentiment140](https://github.com/Sins-Repo/NLP-Sentiment140)
 
 <br/>
 <br/>
